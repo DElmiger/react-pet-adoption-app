@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/DElmiger/react-pet-adoption-app#readme",
   "dependencies": {
-    "react": "^17.0.1"
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
