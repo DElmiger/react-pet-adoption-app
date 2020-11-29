@@ -1,0 +1,22 @@
+{
+  "name": "react-pet-adoption-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DElmiger/react-pet-adoption-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DElmiger/react-pet-adoption-app/issues"
+  },
+  "homepage": "https://github.com/DElmiger/react-pet-adoption-app#readme",
+  "dependencies": {
+    "react": "^17.0.1"
+  }
+}
